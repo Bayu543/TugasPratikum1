@@ -40,8 +40,6 @@ Contoh :
 
 `ALTER TABLE biodata ADD COLUMN keterangan VARCHAR (15);`
 
-![alt text](ss/3.PNG)
-
 **4.Tambahkan kolom id(int 11) di awal (sebagai kolom pertama)!**
 
 Untuk menambahkan kolom pertama yaitu dengan perintah sebagai berikut :
